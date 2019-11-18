@@ -9,3 +9,9 @@ Xamarin.Forms DataBinding, Custom Renderer
 ===========================================
 
 The sample XamarinDemo showcases how to perform DataBinding, different types of DataBinding and writing custom renderer on iOS, Android and the Universal Windows Platform using Xamarin.Forms.
+
+
+Author
+======
+
+Harikrishnan
